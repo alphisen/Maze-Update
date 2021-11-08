@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7218522297477769377}
   - component: {fileID: 132861785092247668}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -187,7 +187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 814661672266056478}
   - component: {fileID: 3060826762666479453}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -272,7 +272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6501527181616551360}
   - component: {fileID: 3069628352251836088}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box016
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -408,7 +408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4803849503109764492}
   - component: {fileID: 3061226426224454955}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box015
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -492,7 +492,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1875398904848439498}
   - component: {fileID: 396989577514868251}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box014
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -576,7 +576,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6132025703873241150}
   - component: {fileID: 4355520306906775248}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -660,7 +660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3758820049710245763}
   - component: {fileID: 6355607560292304519}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -744,7 +744,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3055275928761088783}
   - component: {fileID: 4297950376693979547}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -829,7 +829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4829165407302057258}
   - component: {fileID: 8629777520064756255}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -913,7 +913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7438884245467266040}
   - component: {fileID: 2293595077473894542}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -998,7 +998,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7989896941421748625}
   - component: {fileID: 7152228711881714891}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cylinder002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1086,7 +1086,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7264889299305577542}
   - component: {fileID: 8985471110358793890}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1248,7 +1248,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1883376139859739355}
   - component: {fileID: 2231726245069843176}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1333,7 +1333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5548546204763458953}
   - component: {fileID: 558894970211181704}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1417,7 +1417,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6325218018989508982}
   - component: {fileID: 1781299586617211886}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1501,7 +1501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5737570535995587729}
   - component: {fileID: 5194286167641956503}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1617,7 +1617,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3444135692137694090}
   - component: {fileID: 2547719817932495307}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
