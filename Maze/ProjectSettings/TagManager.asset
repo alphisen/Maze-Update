@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - MipMap Camera
+  - Removable Wall
+  - Collectable
   layers:
   - Default
   - TransparentFX
