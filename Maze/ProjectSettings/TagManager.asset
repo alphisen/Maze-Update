@@ -8,6 +8,13 @@ TagManager:
   - MipMap Camera
   - Removable Wall
   - Collectable
+  - RemoveWall 1
+  - RemoveWall 2
+  - RemoveWall 3
+  - RemoveWall 4
+  - RemoveWall 5
+  - RemoveWall 6
+  - Crystal
   layers:
   - Default
   - TransparentFX
